@@ -16,3 +16,8 @@
 &nbsp;&nbsp;&nbsp; Sou inquieta, apaixonada por estudar, engajada com o compartilhamento de conhecimentos, e sempre desenvolvendo novas habilidades.
 
 ---
+Formação
+
+| Curso  | Conclusão | Certificado |
+| ------ | --------- | ----------- |
+| Github |  05/2025  | ![DIO]() |
