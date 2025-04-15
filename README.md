@@ -20,4 +20,4 @@ Formação
 
 | Curso  | Conclusão | Certificado |
 | ------ | --------- | ----------- |
-| Github |  05/2025  | ![DIO]() |
+| Github |  05/2025  | [DIO]() |
