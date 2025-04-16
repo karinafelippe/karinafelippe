@@ -18,6 +18,8 @@
 ---
 Formação
 
-| Curso  | Conclusão | Certificado |
-| ------ | --------- | ----------- |
-| Github |  05/2025  | [DIO]() |
+| Curso                                                 | Local           | Conclusão | Certificado |
+| ----------------------------------------------------- | --------------- | --------- | ----------- |
+| Github Certification                                  |  DIO            |  05/2025  | [DIO](https://hermes.dio.me/certificates/VJ1GPSVL.pdf) |
+| DevOps Fundamentals                                   |  DIO            |  05/2025  | [DIO]() |
+| DevOps foundations: The core principles and practices | Microsoft Azure |  05/2025  |             |
